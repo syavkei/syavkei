@@ -15,6 +15,7 @@ export default function Welcome({ auth, laravelVersion, phpVersion }) {
     return (
         <>
             <Head title="Welcome" />
+
             <div className="bg-[url('/assets/images/maintenance_bg.png')] bg-cover bg-no-repeat h-screen flex justify-center items-center">
                 <img
                     src="/assets/images/maintenance_main.png"
