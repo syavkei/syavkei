@@ -41,6 +41,7 @@
     <li><strong>Email:</strong> <a href="mailto:sya.gazerock@gmail.com">sya.gazerock@gmail.com</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/syavkei">syavkei</a></li>
     <li><strong>GitHub:</strong> <a href="https://github.com/syavkei">syavkei</a></li>
+    <li><strong>website:</strong> <a href="https://syavkei.com">syavkei.com</a></li>
 </ul>
 
 <p>Thank you for visiting my Github</p>
