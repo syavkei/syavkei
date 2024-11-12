@@ -1,66 +1,91 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        code {
+            background-color: #e7e7e7;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<h1>My Web Portfolio</h1>
+<p>Welcome to my web portfolio! I am a full-stack web developer with experience in various technologies and a passion for creating dynamic and responsive web applications. This portfolio highlights some of my best work and showcases my skills.</p>
+<p>こんにちは！私のポートフォリオを訪れていただきありがとうございます。私はフルスタックウェブ開発者です。</p>
 
-## About Laravel
+<h2>Table of Contents</h2>
+<ul>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#technologies-used">Technologies Used</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ul>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<h2 id="about-me">About Me</h2>
+<p>I am a full-stack web developer proficient in both front-end and back-end development. My journey in web development began with a fascination for building interactive web applications. I have a strong foundation in web technologies and a keen interest in continuous learning.</p>
+<p>I have also achieved a <strong>JLPT N3</strong> certification in Japanese, allowing me to communicate effectively and engage with a wider audience.</p>
+<p>日本語でのコミュニケーションも得意です。よろしくお願いします！</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h2 id="technologies-used">Technologies Used</h2>
+<ul>
+    <li><strong>Back-end:</strong> PHP, Laravel</li>
+    <li><strong>Front-end:</strong> HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, React</li>
+    <li><strong>Version Control:</strong> Git, GitHub</li>
+    <li><strong>Databases:</strong> MySQL, SQLite (add any specific databases you’ve used)</li>
+</ul>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<h2 id="projects">Projects</h2>
 
-## Learning Laravel
+<h3>Project 1: [Project Name]</h3>
+<p><strong>Description:</strong> A brief overview of the project, its purpose, and the technologies used.</p>
+<p><strong>Link:</strong> <a href="#">Live Demo</a> | <a href="#">GitHub Repository</a></p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<h3>Project 2: [Project Name]</h3>
+<p><strong>Description:</strong> A brief overview of the project, its purpose, and the technologies used.</p>
+<p><strong>Link:</strong> <a href="#">Live Demo</a> | <a href="#">GitHub Repository</a></p>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<h3>Project 3: [Project Name]</h3>
+<p><strong>Description:</strong> A brief overview of the project, its purpose, and the technologies used.</p>
+<p><strong>Link:</strong> <a href="#">Live Demo</a> | <a href="#">GitHub Repository</a></p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<!-- Add more projects as necessary -->
 
-## Laravel Sponsors
+<h2 id="skills">Skills</h2>
+<ul>
+    <li>Full-stack Web Development</li>
+    <li>Responsive Web Design</li>
+    <li>RESTful API Development</li>
+    <li>User Interface Design</li>
+    <li>Strong problem-solving skills</li>
+    <li>Ability to work in Agile teams</li>
+</ul>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+<h2 id="contact">Contact</h2>
+<p>Feel free to reach out to me through the following platforms:</p>
+<ul>
+    <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="#">your-linkedin-profile</a></li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/your-github-username">your-github-username</a></li>
+</ul>
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p>Thank you for visiting my portfolio!</p>
